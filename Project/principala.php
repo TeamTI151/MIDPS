@@ -2,7 +2,7 @@
 <html>
 <head>
    <?php 
-   $title= "Telefoane pentru toti pentru toti";
+   $title= "Telefoane pentru toti";
    require_once "bloks/head.php" ?> 
 	   
 </head>

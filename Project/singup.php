@@ -16,7 +16,7 @@
    <div class="nav">
     <ul>
 	    <li><a href="index2.php"> HOME </a></li>
-		 <li><a href="singup.php">SING UP </a></li>
+		 <li><a href="singup.php">SIGN UP </a></li>
 	</ul>
 	</div>
    </div>

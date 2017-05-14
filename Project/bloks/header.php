@@ -15,6 +15,6 @@
 	  </a>
       </div>
       <div id="Inregistrare">
-         	<a href = "singup.php">Sing up</a>|<a href="index2.php">Sing in</a>
+         	<a href = "singup.php">Sign up</a> | <a href="index2.php">Sign in</a>
 			</div>
 	</header>
