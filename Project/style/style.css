@@ -1,0 +1,108 @@
+a {
+	
+	color: black;
+}
+
+
+
+.header
+{
+	height: 200px;
+	background-color: #606060;
+		
+}
+.container{
+	width:1000px;
+	height: 250px;
+	margin: 0 auto;
+}
+.logo{
+	margin: 0 auto;
+	padding-top: 25px;
+	width: 300px;
+	height: 150px;
+	position: relative;
+		
+}
+.logo img {
+	position :absolute;
+	width: 75%;
+	height: 120px;
+}
+.nav{
+	mrgin-top: 17.5px;
+}
+.nav ul
+{
+	text-align: center;
+}
+.nav ul li  {
+	display: inline-block;
+	font-size:20px;
+	font-family: 'Lato';
+	padding-right: 0px  25px; 
+}
+	
+.login{
+	margin-top: 150px;
+}	
+
+
+.login h1{
+	 text-align:center;
+	 font-size:40px;
+	 font-family: Lato;
+	 margin-bottom: 25px;
+	 text-decoration: uderline;
+}
+
+.login form{
+	text-align:center;
+}
+
+
+.login form input{
+	width: 300px;
+	height: 35px;
+	margin-bottom: 20px;
+	font-family: Lato;
+	text-indent: 5px;
+	padding: 2.5px;
+}
+.login  form input:last-Child{
+	background-color: #25A4F4;
+	border:none;
+	width: 310px;
+	height: 40px;
+	font-size:20px;
+	color: white;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
