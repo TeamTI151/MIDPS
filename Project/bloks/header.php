@@ -1,7 +1,6 @@
  <header>
      <div id="logo">
-          <a href="/" title="Pagina principala">
-		  <img src="imagini/logo_quick_2.svg">
+          <a href="principala.php" title="Pagina principala">
                  <span>Q</span>uickmobile                                                  
 			</a>
 		 </div>

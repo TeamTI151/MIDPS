@@ -1,0 +1,19 @@
+.placeforsearch {
+	border: 1px solid silver;
+	padding: 3px 6px;
+	margin-right: 20px;
+	border-radius: 5px;
+}
+.placeforsearch:hover {
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
+.submit {
+	border: none;
+	border-radius: 5px;
+	color: white;
+	padding: 4px 6px;
+	background-color: #e36565;
+}
+.submit:hover {
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
